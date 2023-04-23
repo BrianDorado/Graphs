@@ -1,4 +1,3 @@
-from Calculations.PathFinders.A_Star.a_star_grid import establish_grid
 from Calculations.PathFinders.A_Star.a_star_latlong import *
 from Calculations.PathFinders.Dijkstra import *
 
@@ -10,7 +9,6 @@ class Connections_Network():
         pass
 
     def addVertex(self, icao, meta):
-
         self.Network[icao] = meta
 
     def deleteVertex(self, icao):

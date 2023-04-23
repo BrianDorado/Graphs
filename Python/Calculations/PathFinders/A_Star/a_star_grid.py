@@ -14,3 +14,7 @@ def establish_grid():
     print(grid)
 
 establish_grid()
+
+def a_star_grid():
+    establish_grid()
+    
