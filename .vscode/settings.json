@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "[Night Owl]": {
+            "titleBar.activeBackground": "#0478bb",
+            "titleBar.inactiveBackground": "#0472bb60",
+            "titleBar.activeForeground": "#ffffff"
+        }
+    }
+}
